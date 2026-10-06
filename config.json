@@ -1,6 +1,19 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title": "伊茗雪",
+    "subTitle": "踏雪",
+    "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
+    "GMEEK_VERSION": "last",
+
+    "onePageListNum": 15,
+    "i18n": "CN",
+    "UTC": 8,
+
+    "themeMode": "manual",
+    "dayTheme": "light",
+    "nightTheme": "light",
+
+    "urlMode": "pinyin",
+
+    "showPostSource": 1,
+    "needComment": 0
 }
