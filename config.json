@@ -1,18 +1,19 @@
 {
     "title": "伊茗雪",
-    "subTitle": "踏雪",
-    "avatarUrl": "https://a1.boltp.com/2026/06/30/6a434c39e3f1c.png",
+    "subTitle": "记录生活，学习成长，慢慢留下自己的痕迹。",
+    "avatarUrl": "https://a1.boltp.com/2026/10/06/6ac4fb34bb646.png",
     "GMEEK_VERSION": "last",
 
     "onePageListNum": 15,
+    "faviconUrl":"https://a1.boltp.com/2026/10/06/6ac4fb27d4522.jpg",
     "i18n": "CN",
     "UTC": 8,
 
     "themeMode": "manual",
     "dayTheme": "light",
-    "nightTheme": "light",
+    "nightTheme": "dark_colorblind",
 
-    "urlMode": "pinyin",
+    "urlMode": "issue",
 
     "showPostSource": 1,
     "needComment": 0
